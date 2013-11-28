@@ -1,0 +1,1 @@
+/Users/lgonzalez/Documents/Titanium_Studio_Workspace/imcooldo/Resources/firsttime_window.js

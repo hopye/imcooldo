@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/lgonzalez/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone",
+	"appGuid": "e842275d-5ac8-43de-b5c9-785780bd136b",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "7fb655db1d51a26b74a2778ab4a02a6b",
+	"nativeModulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "222f4d1",
+	"name": "imcooldo",
+	"id": "com.imcool.test",
+	"analytics": true,
+	"publisher": "lgonzalez",
+	"url": "http://www.imcool.do",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2013 by lgonzalez",
+	"guid": "e842275d-5ac8-43de-b5c9-785780bd136b",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false
+}

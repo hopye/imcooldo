@@ -1,0 +1,1 @@
+var duration=300,slideLeft=Ti.UI.createAnimation();slideLeft.left=0,slideLeft.duration=duration;var slideRight=Ti.UI.createAnimation();slideRight.right="-320",slideRight.duration=duration;
